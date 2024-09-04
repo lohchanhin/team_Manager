@@ -42,3 +42,21 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 node_modules
+
+# Sensitive Firebase configuration files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# Flutter Firebase options generated code
+lib/firebase_options.dart
+
+# Environment files
+.env
+
+# Web Firebase options (if applicable)
+web/firebase_options.js
+
+# API keys and credentials (Google Maps)
+android/app/src/debug/res/values/google_maps_api.xml
+android/app/src/release/res/values/google_maps_api.xml
