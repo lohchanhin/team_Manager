@@ -72,21 +72,12 @@ This is a work management application developed using Flutter, designed to help 
   - `widgets/` : Custom Flutter widgets.
   - `database/` : Firebase handling.
 
-## 未來規劃 (Future Plans)
+## 示範影片 (Demo Video)
 
-- 增加工作通知功能，確保重要任務不會被遺漏。
-- 提升日曆的交互性，增加更多過濾與查詢功能。
-- 優化管理者的數據分析報告，提供更精準的決策支持。
+[![Watch the video](assets/login.png)](https://youtu.be/W0RwTIJaUP8)
 
-- Add work notification features to ensure important tasks are not missed.
-- Enhance calendar interactivity with additional filtering and query functions.
-- Optimize data analysis reports for managers, providing more precise decision-making support.
+點擊上方圖片觀看示範影片
 
-## 貢獻 (Contributing)
-
-歡迎提交 issues 或 pull requests 來幫助改善這個專案。
-
-Contributions are welcome! Feel free to submit issues or pull requests to help improve this project.
 
 ## 聯繫方式 (Contact)
 
