@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "289898165765",
+    "firebase_url": "https://teamsync-fd59a-default-rtdb.firebaseio.com",
+    "project_id": "teamsync-fd59a",
+    "storage_bucket": "teamsync-fd59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289898165765:android:fc2172afe982e318688e6c",
+        "android_client_info": {
+          "package_name": "com.example.team_sync_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85o4kQfRcdjcGvBaH-sz4EpqK9x-Xqc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
