@@ -74,7 +74,7 @@ This is a work management application developed using Flutter, designed to help 
 
 ## 示範影片 (Demo Video)
 
-[![Watch the video](assets/login.png)](https://youtu.be/W0RwTIJaUP8)
+[![Watch the video](asset/login.png)](https://youtu.be/W0RwTIJaUP8)
 
 點擊上方圖片觀看示範影片
 
